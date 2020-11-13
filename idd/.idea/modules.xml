@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../django/.idea/django.iml" filepath="$PROJECT_DIR$/../django/.idea/django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_dash/.idea/django_dash.iml" filepath="$PROJECT_DIR$/../django_dash/.idea/django_dash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/idd.iml" filepath="$PROJECT_DIR$/.idea/idd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plotly_django_dash/.idea/plotly_django_dash.iml" filepath="$PROJECT_DIR$/../plotly_django_dash/.idea/plotly_django_dash.iml" />
+    </modules>
+  </component>
+</project>

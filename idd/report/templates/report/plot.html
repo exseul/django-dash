@@ -1,0 +1,15 @@
+{% load static %}
+{%load plotly_dash%}
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IDD-page1</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  {% autoescape off %}
+  {{ plot_div }}
+  {% endautoescape %}
+</body>
+</html>
